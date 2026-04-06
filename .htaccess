@@ -1,0 +1,16 @@
+RewriteEngine On
+
+RewriteRule ^about\.html$ /about-us.html [R=301,L]
+RewriteRule ^animation\.html$ /2d-3d-animation-services-coimbatore.html [R=301,L]
+RewriteRule ^services\.html$ /digital-marketing-company-coimbatore.html [R=301,L]
+RewriteRule ^logodesign\.html$ /logo-design-company-coimbatore.html [R=301,L]
+RewriteRule ^webdevelopment\.html$ /best-website-design-company-coimbatore.html [R=301,L]
+RewriteRule ^socialmedia\.html$ /social-media-marketing-company-coimbatore.html [R=301,L]
+RewriteRule ^googleads\.html$ /google-ads-company-coimbatore.html [R=301,L]
+RewriteRule ^video\.html$ /explainer-video-coimbatore.html [R=301,L]
+RewriteRule ^leadgeneration\.html$ /lead-generation-company-coimbatore.html [R=301,L]
+RewriteRule ^influnce\.html$ /influencer-marketing-coimbatore.html [R=301,L]
+RewriteRule ^brand\.html$ /personal-branding-coimbatore.html [R=301,L]
+RewriteRule ^seo\.html$ /seo-company-coimbatore.html [R=301,L]
+RewriteRule ^app\.html$ /app-development-company-coimbatore.html [R=301,L]
+RewriteRule ^software\.html$ /software-development-company-coimbatore.html [R=301,L]
